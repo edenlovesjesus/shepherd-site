@@ -1,0 +1,1 @@
+// Community Posts page placeholder
